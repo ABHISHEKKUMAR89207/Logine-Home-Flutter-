@@ -13,7 +13,7 @@
 
 ## About
 
-combines simplicity with security, making note-taking a smooth and worry-free experience. Try it out now and level up your note-taking game!
+Firebase Logine and A HomePage
 
 ## Screenshots
 
@@ -26,8 +26,7 @@ combines simplicity with security, making note-taking a smooth and worry-free ex
     <img src="gitimg/6.jpg" width="200">
     <img src="gitimg/7.jpg" width="200">
    
-    <!-- <img src="gitimg/19.jpg" width="200">
-    <img src="gitimg/20.jpg" width="200"> -->
+   
 </div>
 
 ## Prerequisites
