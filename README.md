@@ -13,11 +13,7 @@
 
 ## About
 
-<div align="center">
-  <img src="gitimg/logo.jpg" alt="Image Description" width="200">
-  
-</div>
-   Flutter Notes App with Firebase is your go-to for easy note-taking. It lets you log in securely and keeps your notes updated in real-time across all your devices. Creating and managing notes is a breeze. This app combines simplicity with security, making note-taking a smooth and worry-free experience. Try it out now and level up your note-taking game!
+combines simplicity with security, making note-taking a smooth and worry-free experience. Try it out now and level up your note-taking game!
 
 ## Screenshots
 
@@ -29,17 +25,7 @@
     <img src="gitimg/5.jpg" width="200">
     <img src="gitimg/6.jpg" width="200">
     <img src="gitimg/7.jpg" width="200">
-    <img src="gitimg/8.jpg" width="200">
-    <img src="gitimg/9.jpg" width="200">
-    <img src="gitimg/10.jpg" width="200">
-    <img src="gitimg/11.jpg" width="200">
-    <img src="gitimg/12.jpg" width="200">
-    <img src="gitimg/13.jpg" width="200">
-    <img src="gitimg/14.jpg" width="200">
-    <img src="gitimg/15.jpg" width="200">
-    <img src="gitimg/16.jpg" width="200">
-    <img src="gitimg/17.jpg" width="200">
-    <img src="gitimg/18.jpg" width="200">
+   
     <!-- <img src="gitimg/19.jpg" width="200">
     <img src="gitimg/20.jpg" width="200"> -->
 </div>
@@ -59,7 +45,7 @@ Follow these steps to create a Flutter Firebase page with Firestore and Email/Pa
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/ABHISHEKKUMAR89207/WeatherApp.git
+   git clone https://github.com/ABHISHEKKUMAR89207/Logine-Home-Flutter-.git
    ```
 
 #### Flutter Package Dependencies
@@ -104,10 +90,4 @@ This guide will help you set up Firebase Authentication and Firebase Database fo
 3. Set up security rules to control access to your database.
 4. Firebase Database is now ready to use in your Flutter app.
 
-## Payment Setup
 
-### Add your RozarPay Api key on :
-
-Online_Shopping_App-flutter.firebase.rozarpay\lib\profile\cart_page.dart
-
-Happy coding!
